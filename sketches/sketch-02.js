@@ -8,10 +8,11 @@ const settings = {
 
 const sketch = () => {
   return ({ context, width, height }) => {
-    context.fillStyle = 'white';
+    context.fillStyle = 'black';
     context.fillRect(0, 0, width, height);
 
-    context.fillStyle = "black";
+    context.fillStyle = "white";
+    context.strokeStyle = "white";
 
     const cx = 0;
     const cy = 0;

@@ -26,3 +26,12 @@ My projects for the [Creative Coding course](https://www.domestika.org/en/course
   <img src="./sketches/output/03/first.png" alt="sketch first" width="45%">
   <img src="./sketches/output/03/second.png" alt="sketch second" width="45%">
 </p>
+
+## Sketch 04
+[Code](./sketches/sketch-04.js)
+
+
+<p align="center">
+  <img src="./sketches/output/04/white.png" alt="sketch first" width="45%">
+  <img src="./sketches/output/04/black.png" alt="sketch second" width="45%">
+</p>
